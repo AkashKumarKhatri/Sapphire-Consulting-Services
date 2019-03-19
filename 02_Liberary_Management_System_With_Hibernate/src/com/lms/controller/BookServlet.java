@@ -34,7 +34,9 @@ import com.lms.transformer.BookTransformer;
 public class BookServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
-	private final String UPLOAD_DIRECTORY = "D:/eclips-workspace/02_Liberary_Management_System_With_Hibernate/WebContent/uploaded_data";
+	//private final String UPLOAD_DIRECTORY = "D:/eclips-workspace/02_Liberary_Management_System_With_Hibernate/WebContent/uploaded_data";
+	private final String UPLOAD_DIRECTORY = "C:/Users/Akash/git/Sapphire-Consulting-Services/02_Liberary_Management_System_With_Hibernate/WebContent/uploaded_data";
+	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		PrintWriter out = response.getWriter();
 		String refresh = request.getParameter("refresh");

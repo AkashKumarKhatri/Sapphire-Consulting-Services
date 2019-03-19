@@ -17,5 +17,6 @@
 	<classpathentry kind="lib" path="D:/Software/Study Software/Java External APIs/mysql-connector-java-5.1.47.jar"/>
 	<classpathentry kind="lib" path="D:/Software/Study Software/Java External APIs/Servlet File Uploading/Old Version/commons-fileupload-1.3.1.jar"/>
 	<classpathentry kind="lib" path="D:/Software/Study Software/Java External APIs/Servlet File Uploading/Old Version/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Study Software/Java External APIs/gson-2.2.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
